@@ -1,0 +1,1 @@
+Bomb is a lisp-like B*-derivative language, purpose-built for modularity made for integrating into either Discord bots or use as its own standalone language.
